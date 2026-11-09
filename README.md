@@ -54,3 +54,4 @@ Set `.env.local`:
 7. Verify an editor cannot delete; an admin can delete.
 
 ## Technical stack
+Deployment setup for ADRA Calendar.
